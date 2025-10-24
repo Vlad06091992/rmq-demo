@@ -1,0 +1,19 @@
+{
+  "name": "rmq-demo",
+  "version": "1.0.0",
+  "description": "workring demo rabbitMQ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Vlad06091992/rmq-demo.git"
+  },
+  "author": "Vlad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vlad06091992/rmq-demo/issues"
+  },
+  "homepage": "https://github.com/Vlad06091992/rmq-demo#readme"
+}
